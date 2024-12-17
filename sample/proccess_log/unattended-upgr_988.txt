@@ -1,0 +1,3394 @@
+Process: unattended-upgr (PID: 988)
+VMA ffff98fc46f89b80:
+  Start: 0x400000, End: 0x420000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/bin/python3.12
+  -----------------
+VMA ffff98fc46f89da8:
+  Start: 0x420000, End: 0x70b000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/bin/python3.12
+  -----------------
+VMA ffff98fc46f89170:
+  Start: 0x70b000, End: 0xa30000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/bin/python3.12
+  -----------------
+VMA ffff98fc46f89958:
+  Start: 0xa30000, End: 0xa31000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/bin/python3.12
+  -----------------
+VMA ffff98fc45a07cf0:
+  Start: 0xa31000, End: 0xbaf000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/bin/python3.12
+  -----------------
+VMA ffff98fc46f892e0:
+  Start: 0xbaf000, End: 0xbb2000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc47130e60:
+  Start: 0x15225000, End: 0x1551d000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc47545cf0:
+  Start: 0x7f7a00000000, End: 0x7f7a00021000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc58744228:
+  Start: 0x7f7a00021000, End: 0x7f7a04000000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586670b8:
+  Start: 0x7f7a05c00000, End: 0x7f7a05c01000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc462b0450:
+  Start: 0x7f7a05c01000, End: 0x7f7a06401000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc462b0ac8:
+  Start: 0x7f7a06439000, End: 0x7f7a0643e000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.37.0
+  -----------------
+VMA ffff98fc462b0a10:
+  Start: 0x7f7a0643e000, End: 0x7f7a06457000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.37.0
+  -----------------
+VMA ffff98fc462b0c38:
+  Start: 0x7f7a06457000, End: 0x7f7a06460000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.37.0
+  -----------------
+VMA ffff98fc462b05c0:
+  Start: 0x7f7a06460000, End: 0x7f7a06461000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.37.0
+  -----------------
+VMA ffff98fc52d48170:
+  Start: 0x7f7a06461000, End: 0x7f7a06462000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.37.0
+  -----------------
+VMA ffff98fc462907e8:
+  Start: 0x7f7a06462000, End: 0x7f7a06472000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.5.0
+  -----------------
+VMA ffff98fc46290450:
+  Start: 0x7f7a06472000, End: 0x7f7a065a9000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.5.0
+  -----------------
+VMA ffff98fc584c9c38:
+  Start: 0x7f7a065a9000, End: 0x7f7a065f5000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.5.0
+  -----------------
+VMA ffff98fc47545228:
+  Start: 0x7f7a065f5000, End: 0x7f7a065fa000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.5.0
+  -----------------
+VMA ffff98fc462988a0:
+  Start: 0x7f7a065fa000, End: 0x7f7a06600000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.5.0
+  -----------------
+VMA ffff98fc45aec7e8:
+  Start: 0x7f7a06600000, End: 0x7f7a0669d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  -----------------
+VMA ffff98fc5d50f170:
+  Start: 0x7f7a0669d000, End: 0x7f7a067e5000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  -----------------
+VMA ffff98fc5d50fe60:
+  Start: 0x7f7a067e5000, End: 0x7f7a0686c000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  -----------------
+VMA ffff98fc462ae450:
+  Start: 0x7f7a0686c000, End: 0x7f7a06877000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  -----------------
+VMA ffff98fc46298ac8:
+  Start: 0x7f7a06877000, End: 0x7f7a0687a000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  -----------------
+VMA ffff98fc462ae958:
+  Start: 0x7f7a0687a000, End: 0x7f7a0687e000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc433df730:
+  Start: 0x7f7a06889000, End: 0x7f7a0688b000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+  -----------------
+VMA ffff98fc42041cf0:
+  Start: 0x7f7a0688b000, End: 0x7f7a06898000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+  -----------------
+VMA ffff98fc472f9398:
+  Start: 0x7f7a06898000, End: 0x7f7a0689a000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+  -----------------
+VMA ffff98fc584e0da8:
+  Start: 0x7f7a0689a000, End: 0x7f7a0689b000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+  -----------------
+VMA ffff98fc46298000:
+  Start: 0x7f7a0689b000, End: 0x7f7a0689c000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libxxhash.so.0.8.2
+  -----------------
+VMA ffff98fc4629b508:
+  Start: 0x7f7a0689c000, End: 0x7f7a068a4000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libudev.so.1.7.9
+  -----------------
+VMA ffff98fc4629bf18:
+  Start: 0x7f7a068a4000, End: 0x7f7a068c9000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libudev.so.1.7.9
+  -----------------
+VMA ffff98fc462900b8:
+  Start: 0x7f7a068c9000, End: 0x7f7a068db000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libudev.so.1.7.9
+  -----------------
+VMA ffff98fc46290a10:
+  Start: 0x7f7a068db000, End: 0x7f7a068e0000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libudev.so.1.7.9
+  -----------------
+VMA ffff98fc46298228:
+  Start: 0x7f7a068e0000, End: 0x7f7a068e1000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libudev.so.1.7.9
+  -----------------
+VMA ffff98fc5d561228:
+  Start: 0x7f7a068e1000, End: 0x7f7a068e5000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.6
+  -----------------
+VMA ffff98fc47156730:
+  Start: 0x7f7a068e5000, End: 0x7f7a06990000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.6
+  -----------------
+VMA ffff98fc4629b450:
+  Start: 0x7f7a06990000, End: 0x7f7a0699d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.6
+  -----------------
+VMA ffff98fc4629b2e0:
+  Start: 0x7f7a0699d000, End: 0x7f7a0699e000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.6
+  -----------------
+VMA ffff98fc46298730:
+  Start: 0x7f7a0699e000, End: 0x7f7a0699f000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.6
+  -----------------
+VMA ffff98fc47138e60:
+  Start: 0x7f7a0699f000, End: 0x7f7a069a3000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblzma.so.5.6.2
+  -----------------
+VMA ffff98fc471387e8:
+  Start: 0x7f7a069a3000, End: 0x7f7a069c5000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblzma.so.5.6.2
+  -----------------
+VMA ffff98fc58742958:
+  Start: 0x7f7a069c5000, End: 0x7f7a069d0000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblzma.so.5.6.2
+  -----------------
+VMA ffff98fc58742b80:
+  Start: 0x7f7a069d0000, End: 0x7f7a069d1000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblzma.so.5.6.2
+  -----------------
+VMA ffff98fc462982e0:
+  Start: 0x7f7a069d1000, End: 0x7f7a069d2000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblzma.so.5.6.2
+  -----------------
+VMA ffff98fc462aeac8:
+  Start: 0x7f7a069d2000, End: 0x7f7a069d6000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  -----------------
+VMA ffff98fc462aecf0:
+  Start: 0x7f7a069d6000, End: 0x7f7a069fa000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  -----------------
+VMA ffff98fc462aeb80:
+  Start: 0x7f7a069fa000, End: 0x7f7a069fe000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  -----------------
+VMA ffff98fc52f1ce60:
+  Start: 0x7f7a069fe000, End: 0x7f7a069ff000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  -----------------
+VMA ffff98fc46298450:
+  Start: 0x7f7a069ff000, End: 0x7f7a06a00000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  -----------------
+VMA ffff98fc5d52c228:
+  Start: 0x7f7a06a00000, End: 0x7f7a06a3b000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+  -----------------
+VMA ffff98fc5d52c7e8:
+  Start: 0x7f7a06a3b000, End: 0x7f7a06bc2000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+  -----------------
+VMA ffff98fc54ee2cf0:
+  Start: 0x7f7a06bc2000, End: 0x7f7a06c0a000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+  -----------------
+VMA ffff98fc462aab80:
+  Start: 0x7f7a06c0a000, End: 0x7f7a06c12000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+  -----------------
+VMA ffff98fc420daf18:
+  Start: 0x7f7a06c12000, End: 0x7f7a06c13000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libapt-pkg.so.6.0.0
+  -----------------
+VMA ffff98fc462aa000:
+  Start: 0x7f7a06c13000, End: 0x7f7a06c14000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc5d561e60:
+  Start: 0x7f7a06c1a000, End: 0x7f7a06c1d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  -----------------
+VMA ffff98fc5d5617e8:
+  Start: 0x7f7a06c1d000, End: 0x7f7a06c38000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  -----------------
+VMA ffff98fc5d5618a0:
+  Start: 0x7f7a06c38000, End: 0x7f7a06c3a000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  -----------------
+VMA ffff98fc5d561c38:
+  Start: 0x7f7a06c3a000, End: 0x7f7a06c3b000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  -----------------
+VMA ffff98fc46298cf0:
+  Start: 0x7f7a06c3b000, End: 0x7f7a06c3c000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  -----------------
+VMA ffff98fc475447e8:
+  Start: 0x7f7a06c3c000, End: 0x7f7a06c51000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc467e0b80:
+  Start: 0x7f7a06c51000, End: 0x7f7a06c71000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc473cf000:
+  Start: 0x7f7a06c71000, End: 0x7f7a06c88000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc473cf508:
+  Start: 0x7f7a06c88000, End: 0x7f7a06c8a000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc420da730:
+  Start: 0x7f7a06c8a000, End: 0x7f7a06c93000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/apt_pkg.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc475442e0:
+  Start: 0x7f7a06c93000, End: 0x7f7a06ccb000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/girepository-1.0/GLib-2.0.typelib
+  -----------------
+VMA ffff98fc4715b678:
+  Start: 0x7f7a06ccb000, End: 0x7f7a06cdb000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc43f6ce60:
+  Start: 0x7f7a06cdb000, End: 0x7f7a06d12000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47136730:
+  Start: 0x7f7a06d12000, End: 0x7f7a06d2b000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47136450:
+  Start: 0x7f7a06d2b000, End: 0x7f7a06d2e000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc477402e0:
+  Start: 0x7f7a06d2e000, End: 0x7f7a06d2f000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc42041000:
+  Start: 0x7f7a06d2f000, End: 0x7f7a06d36000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+  -----------------
+VMA ffff98fc472f9000:
+  Start: 0x7f7a06d36000, End: 0x7f7a06d49000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+  -----------------
+VMA ffff98fc584e0000:
+  Start: 0x7f7a06d49000, End: 0x7f7a06d51000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+  -----------------
+VMA ffff98fc584e0508:
+  Start: 0x7f7a06d51000, End: 0x7f7a06d52000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+  -----------------
+VMA ffff98fc47740450:
+  Start: 0x7f7a06d52000, End: 0x7f7a06d53000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgirepository-1.0.so.1.0.0
+  -----------------
+VMA ffff98fc47fd48a0:
+  Start: 0x7f7a06d53000, End: 0x7f7a06d62000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc472fc8a0:
+  Start: 0x7f7a06d62000, End: 0x7f7a06d94000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc443c0a10:
+  Start: 0x7f7a06d94000, End: 0x7f7a06da2000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc58701e60:
+  Start: 0x7f7a06da2000, End: 0x7f7a06da4000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc47740228:
+  Start: 0x7f7a06da4000, End: 0x7f7a06dab000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/gi/_gi.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc462a2730:
+  Start: 0x7f7a06dab000, End: 0x7f7a06eac000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc42b9c5c0:
+  Start: 0x7f7a06eac000, End: 0x7f7a06eae000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  -----------------
+VMA ffff98fc5d41a5c0:
+  Start: 0x7f7a06eae000, End: 0x7f7a06f1f000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  -----------------
+VMA ffff98fc5d41a730:
+  Start: 0x7f7a06f1f000, End: 0x7f7a06f47000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  -----------------
+VMA ffff98fc5d538170:
+  Start: 0x7f7a06f47000, End: 0x7f7a06f48000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  -----------------
+VMA ffff98fc5d5382e0:
+  Start: 0x7f7a06f48000, End: 0x7f7a06f49000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  -----------------
+VMA ffff98fc54f9ae60:
+  Start: 0x7f7a06f49000, End: 0x7f7a06f68000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc54f9a5c0:
+  Start: 0x7f7a06f68000, End: 0x7f7a0700c000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc54f9acf0:
+  Start: 0x7f7a0700c000, End: 0x7f7a07095000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc42b9cda8:
+  Start: 0x7f7a07095000, End: 0x7f7a07096000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc5d538f18:
+  Start: 0x7f7a07096000, End: 0x7f7a07097000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc42b9e508:
+  Start: 0x7f7a07097000, End: 0x7f7a072cb000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc43f6cda8:
+  Start: 0x7f7a072cb000, End: 0x7f7a072e1000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libsystemd.so.0.39.0
+  -----------------
+VMA ffff98fc46e272e0:
+  Start: 0x7f7a072e1000, End: 0x7f7a07375000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libsystemd.so.0.39.0
+  -----------------
+VMA ffff98fc46e27508:
+  Start: 0x7f7a07375000, End: 0x7f7a073a4000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libsystemd.so.0.39.0
+  -----------------
+VMA ffff98fc46e27678:
+  Start: 0x7f7a073a4000, End: 0x7f7a073af000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libsystemd.so.0.39.0
+  -----------------
+VMA ffff98fc5d52ce60:
+  Start: 0x7f7a073af000, End: 0x7f7a073b0000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libsystemd.so.0.39.0
+  -----------------
+VMA ffff98fc46e27958:
+  Start: 0x7f7a073b0000, End: 0x7f7a073b1000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc5d50f958:
+  Start: 0x7f7a073b1000, End: 0x7f7a073bd000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  -----------------
+VMA ffff98fc5d50f678:
+  Start: 0x7f7a073bd000, End: 0x7f7a073ed000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  -----------------
+VMA ffff98fc5d50f5c0:
+  Start: 0x7f7a073ed000, End: 0x7f7a073fe000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  -----------------
+VMA ffff98fc472ff7e8:
+  Start: 0x7f7a073fe000, End: 0x7f7a073ff000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  -----------------
+VMA ffff98fc5d52cac8:
+  Start: 0x7f7a073ff000, End: 0x7f7a07400000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  -----------------
+VMA ffff98fc45a07ac8:
+  Start: 0x7f7a07400000, End: 0x7f7a07600000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc45a07228:
+  Start: 0x7f7a07600000, End: 0x7f7a083ec000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/locale/locale-archive
+  -----------------
+VMA ffff98fc43b575c0:
+  Start: 0x7f7a083ec000, End: 0x7f7a083ee000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  -----------------
+VMA ffff98fc47138cf0:
+  Start: 0x7f7a083ee000, End: 0x7f7a083fc000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  -----------------
+VMA ffff98fc47138450:
+  Start: 0x7f7a083fc000, End: 0x7f7a083fe000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  -----------------
+VMA ffff98fc47138508:
+  Start: 0x7f7a083fe000, End: 0x7f7a083ff000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  -----------------
+VMA ffff98fc46298e60:
+  Start: 0x7f7a083ff000, End: 0x7f7a08400000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  -----------------
+VMA ffff98fc46f88398:
+  Start: 0x7f7a08400000, End: 0x7f7a08428000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc46f88450:
+  Start: 0x7f7a08428000, End: 0x7f7a085be000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc46f88cf0:
+  Start: 0x7f7a085be000, End: 0x7f7a0860d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc46f88e60:
+  Start: 0x7f7a0860d000, End: 0x7f7a08611000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc586e62e0:
+  Start: 0x7f7a08611000, End: 0x7f7a08613000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc586e6b80:
+  Start: 0x7f7a08613000, End: 0x7f7a08620000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc46e27398:
+  Start: 0x7f7a08624000, End: 0x7f7a08626000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47740cf0:
+  Start: 0x7f7a08626000, End: 0x7f7a08628000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47740da8:
+  Start: 0x7f7a08628000, End: 0x7f7a08629000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47740170:
+  Start: 0x7f7a08629000, End: 0x7f7a0862a000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47740398:
+  Start: 0x7f7a0862a000, End: 0x7f7a0862b000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8200.1
+  -----------------
+VMA ffff98fc47136678:
+  Start: 0x7f7a0862b000, End: 0x7f7a0862d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  -----------------
+VMA ffff98fc47136c38:
+  Start: 0x7f7a0862d000, End: 0x7f7a08634000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  -----------------
+VMA ffff98fc471367e8:
+  Start: 0x7f7a08634000, End: 0x7f7a08635000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  -----------------
+VMA ffff98fc46e27cf0:
+  Start: 0x7f7a08635000, End: 0x7f7a08636000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  -----------------
+VMA ffff98fc47740000:
+  Start: 0x7f7a08636000, End: 0x7f7a08637000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  -----------------
+VMA ffff98fc42b9cf18:
+  Start: 0x7f7a08637000, End: 0x7f7a08639000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libatomic.so.1.2.0
+  -----------------
+VMA ffff98fc42b9ce60:
+  Start: 0x7f7a08639000, End: 0x7f7a0863d000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libatomic.so.1.2.0
+  -----------------
+VMA ffff98fc42b9c228:
+  Start: 0x7f7a0863d000, End: 0x7f7a0863f000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libatomic.so.1.2.0
+  -----------------
+VMA ffff98fc42b9cc38:
+  Start: 0x7f7a0863f000, End: 0x7f7a08640000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libatomic.so.1.2.0
+  -----------------
+VMA ffff98fc5d5387e8:
+  Start: 0x7f7a08640000, End: 0x7f7a08641000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libatomic.so.1.2.0
+  -----------------
+VMA ffff98fc42b9c7e8:
+  Start: 0x7f7a08641000, End: 0x7f7a08642000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc46e27b80:
+  Start: 0x7f7a08652000, End: 0x7f7a08655000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  -----------------
+VMA ffff98fc46e27170:
+  Start: 0x7f7a08655000, End: 0x7f7a0865b000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  -----------------
+VMA ffff98fc5d52c8a0:
+  Start: 0x7f7a0865b000, End: 0x7f7a0865d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  -----------------
+VMA ffff98fc5d52ca10:
+  Start: 0x7f7a0865d000, End: 0x7f7a0865e000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  -----------------
+VMA ffff98fc5d52cda8:
+  Start: 0x7f7a0865e000, End: 0x7f7a0865f000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  -----------------
+VMA ffff98fc420415c0:
+  Start: 0x7f7a08661000, End: 0x7f7a08663000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc443c02e0:
+  Start: 0x7f7a08663000, End: 0x7f7a08665000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc47136958:
+  Start: 0x7f7a08665000, End: 0x7f7a08666000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc47136b80:
+  Start: 0x7f7a08666000, End: 0x7f7a08667000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc5d538398:
+  Start: 0x7f7a08667000, End: 0x7f7a08668000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc584bbac8:
+  Start: 0x7f7a08668000, End: 0x7f7a0866a000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc472a90b8:
+  Start: 0x7f7a0866a000, End: 0x7f7a0866c000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc46f89e60:
+  Start: 0x7f7a0866c000, End: 0x7f7a0866d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc52e92398:
+  Start: 0x7f7a0866d000, End: 0x7f7a0866e000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc586ea450:
+  Start: 0x7f7a0866e000, End: 0x7f7a0866f000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3.12/lib-dynload/_queue.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc5d50f228:
+  Start: 0x7f7a0866f000, End: 0x7f7a08676000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc5d50f7e8:
+  Start: 0x7f7a08676000, End: 0x7f7a08686000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc5d50ff18:
+  Start: 0x7f7a08686000, End: 0x7f7a08693000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc5d50f450:
+  Start: 0x7f7a08693000, End: 0x7f7a08694000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc5d52cf18:
+  Start: 0x7f7a08694000, End: 0x7f7a0869a000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/python3/dist-packages/_dbus_bindings.cpython-312-x86_64-linux-gnu.so
+  -----------------
+VMA ffff98fc586e67e8:
+  Start: 0x7f7a0869a000, End: 0x7f7a086fe000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc46f88a10:
+  Start: 0x7f7a086fe000, End: 0x7f7a08702000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.2
+  -----------------
+VMA ffff98fc46f88ac8:
+  Start: 0x7f7a08702000, End: 0x7f7a0871f000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.2
+  -----------------
+VMA ffff98fc46f885c0:
+  Start: 0x7f7a0871f000, End: 0x7f7a08727000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.2
+  -----------------
+VMA ffff98fc46f882e0:
+  Start: 0x7f7a08727000, End: 0x7f7a08729000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.2
+  -----------------
+VMA ffff98fc586e6da8:
+  Start: 0x7f7a08729000, End: 0x7f7a0872a000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.2
+  -----------------
+VMA ffff98fc584e02e0:
+  Start: 0x7f7a0872a000, End: 0x7f7a0872d000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libz.so.1.3.1
+  -----------------
+VMA ffff98fc584e0a10:
+  Start: 0x7f7a0872d000, End: 0x7f7a08740000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libz.so.1.3.1
+  -----------------
+VMA ffff98fc584e0398:
+  Start: 0x7f7a08740000, End: 0x7f7a08746000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libz.so.1.3.1
+  -----------------
+VMA ffff98fc47355c38:
+  Start: 0x7f7a08746000, End: 0x7f7a08747000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libz.so.1.3.1
+  -----------------
+VMA ffff98fc586e6000:
+  Start: 0x7f7a08747000, End: 0x7f7a08748000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libz.so.1.3.1
+  -----------------
+VMA ffff98fc54ea3000:
+  Start: 0x7f7a08748000, End: 0x7f7a08758000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libm.so.6
+  -----------------
+VMA ffff98fc54e132e0:
+  Start: 0x7f7a08758000, End: 0x7f7a087da000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libm.so.6
+  -----------------
+VMA ffff98fc584e0e60:
+  Start: 0x7f7a087da000, End: 0x7f7a08833000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libm.so.6
+  -----------------
+VMA ffff98fc584e05c0:
+  Start: 0x7f7a08833000, End: 0x7f7a08834000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libm.so.6
+  -----------------
+VMA ffff98fc45a07730:
+  Start: 0x7f7a08834000, End: 0x7f7a08835000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/libm.so.6
+  -----------------
+VMA ffff98fc462b0000:
+  Start: 0x7f7a08839000, End: 0x7f7a0883a000
+  Flags: 0x8100077
+  Page Prot: 0x25
+  -----------------
+VMA ffff98fc46f88170:
+  Start: 0x7f7a0883a000, End: 0x7f7a0883e000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc45a075c0:
+  Start: 0x7f7a0883e000, End: 0x7f7a08845000
+  Flags: 0x80000d1
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+  -----------------
+VMA ffff98fc58744678:
+  Start: 0x7f7a08845000, End: 0x7f7a08847000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc54c55ac8:
+  Start: 0x7f7a08847000, End: 0x7f7a0884b000
+  Flags: 0xc044411
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             special_mapping_close+0x0/0x10
+    may_split handler:         special_mapping_split+0x0/0x20
+    mremap handler:            special_mapping_mremap+0x0/0x70
+    mprotect handler:          0x0
+    fault handler:             special_mapping_fault+0x0/0xf0
+    huge_fault handler:        0x0
+    map_pages handler:         0x0
+    pagesize handler:          0x0
+    page_mkwrite handler:      0x0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  -----------------
+VMA ffff98fc584c32e0:
+  Start: 0x7f7a0884b000, End: 0x7f7a0884d000
+  Flags: 0x8040075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             special_mapping_close+0x0/0x10
+    may_split handler:         special_mapping_split+0x0/0x20
+    mremap handler:            special_mapping_mremap+0x0/0x70
+    mprotect handler:          0x0
+    fault handler:             special_mapping_fault+0x0/0xf0
+    huge_fault handler:        0x0
+    map_pages handler:         0x0
+    pagesize handler:          0x0
+    page_mkwrite handler:      0x0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  -----------------
+VMA ffff98fc46f89f18:
+  Start: 0x7f7a0884d000, End: 0x7f7a0884e000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc46f89398:
+  Start: 0x7f7a0884e000, End: 0x7f7a0887b000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc46f897e8:
+  Start: 0x7f7a0887b000, End: 0x7f7a08885000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc46f89678:
+  Start: 0x7f7a08885000, End: 0x7f7a08887000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc45a07b80:
+  Start: 0x7f7a08887000, End: 0x7f7a08889000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      ext4_page_mkwrite+0x0/0x5b0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc46f895c0:
+  Start: 0x7ffff6e0d000, End: 0x7ffff6e2e000
+  Flags: 0x100173
+  Page Prot: 0x8000000000000025
+  -----------------

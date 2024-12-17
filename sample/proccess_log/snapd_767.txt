@@ -1,0 +1,614 @@
+Process: snapd (PID: 767)
+VMA ffff98fc46025ac8:
+  Start: 0xc000000000, End: 0xc000400000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586b05c0:
+  Start: 0xc000400000, End: 0xc000a00000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc46025c38:
+  Start: 0xc000a00000, End: 0xc000c00000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc462a5450:
+  Start: 0xc000c00000, End: 0xc004000000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc459b4da8:
+  Start: 0x55cf68a89000, End: 0x55cf694a5000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/snapd/snapd
+  -----------------
+VMA ffff98fc52f27c38:
+  Start: 0x55cf694a5000, End: 0x55cf698ee000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/snapd/snapd
+  -----------------
+VMA ffff98fc52f27228:
+  Start: 0x55cf698ee000, End: 0x55cf6a0ad000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/snapd/snapd
+  -----------------
+VMA ffff98fc54ee2398:
+  Start: 0x55cf6a0ad000, End: 0x55cf6a108000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/snapd/snapd
+  -----------------
+VMA ffff98fc54fce678:
+  Start: 0x55cf6a108000, End: 0x55cf6a14e000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc54fceda8:
+  Start: 0x55cf6a14e000, End: 0x55cf6a14f000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/snapd/snapd
+  -----------------
+VMA ffff98fc58638c38:
+  Start: 0x55cf9b0e2000, End: 0x55cf9b103000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc47156c38:
+  Start: 0x761304000000, End: 0x761304021000
+  Flags: 0x8200073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc471565c0:
+  Start: 0x761304021000, End: 0x761308000000
+  Flags: 0x8200070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc584e0678:
+  Start: 0x76130c000000, End: 0x76130c021000
+  Flags: 0x8200073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc584e08a0:
+  Start: 0x76130c021000, End: 0x761310000000
+  Flags: 0x8200070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc5d41a2e0:
+  Start: 0x761310000000, End: 0x761310021000
+  Flags: 0x8200073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc5d41ac38:
+  Start: 0x761310021000, End: 0x761314000000
+  Flags: 0x8200070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586465c0:
+  Start: 0x761318000000, End: 0x761318021000
+  Flags: 0x8200073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc58646958:
+  Start: 0x761318021000, End: 0x76131c000000
+  Flags: 0x8200070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc58730730:
+  Start: 0x76131c000000, End: 0x76131c021000
+  Flags: 0x8200073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc58730f18:
+  Start: 0x76131c021000, End: 0x761320000000
+  Flags: 0x8200070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc47156678:
+  Start: 0x761322c00000, End: 0x761322c01000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc47156958:
+  Start: 0x761322c01000, End: 0x761323401000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc584e0958:
+  Start: 0x761323600000, End: 0x761323601000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc584e0cf0:
+  Start: 0x761323601000, End: 0x761323e01000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bdda8:
+  Start: 0x761324000000, End: 0x761324021000
+  Flags: 0x8200073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bd5c0:
+  Start: 0x761324021000, End: 0x761328000000
+  Flags: 0x8200070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc5d41a398:
+  Start: 0x761328400000, End: 0x761328401000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc5d457cf0:
+  Start: 0x761328401000, End: 0x761328c01000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc58730170:
+  Start: 0x761328e00000, End: 0x761328e01000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc587300b8:
+  Start: 0x761328e01000, End: 0x761329601000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc584a2cf0:
+  Start: 0x761329800000, End: 0x761329801000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc5874e2e0:
+  Start: 0x761329801000, End: 0x76132a001000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc47220e60:
+  Start: 0x76132a140000, End: 0x76132a200000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bd958:
+  Start: 0x76132a200000, End: 0x76132a201000
+  Flags: 0x48000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586bdac8:
+  Start: 0x76132a201000, End: 0x76132aa01000
+  Flags: 0x48100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586c5c38:
+  Start: 0x76132aa20000, End: 0x76132ae11000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586c5da8:
+  Start: 0x76132ae20000, End: 0x76132d000000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bdb80:
+  Start: 0x76132d000000, End: 0x76133d180000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586bd450:
+  Start: 0x76133d180000, End: 0x76133d181000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bdf18:
+  Start: 0x76133d181000, End: 0x76134f030000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586bd7e8:
+  Start: 0x76134f030000, End: 0x76134f031000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bd0b8:
+  Start: 0x76134f031000, End: 0x761351406000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586bd170:
+  Start: 0x761351406000, End: 0x761351407000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586bdc38:
+  Start: 0x761351407000, End: 0x761351800000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc54c81da8:
+  Start: 0x761351800000, End: 0x761351828000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc54c81a10:
+  Start: 0x761351828000, End: 0x7613519bd000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc54c818a0:
+  Start: 0x7613519bd000, End: 0x761351a15000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc54c81398:
+  Start: 0x761351a15000, End: 0x761351a16000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc54c812e0:
+  Start: 0x761351a16000, End: 0x761351a1a000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc54dc3730:
+  Start: 0x761351a1a000, End: 0x761351a1c000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc52d4cf18:
+  Start: 0x761351a1c000, End: 0x761351a29000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc52d4cda8:
+  Start: 0x761351a29000, End: 0x761351a2e000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/libc.so.6
+  -----------------
+VMA ffff98fc586bd730:
+  Start: 0x761351a2e000, End: 0x761351a8e000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586b0c38:
+  Start: 0x761351a8e000, End: 0x761351b0e000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc586b08a0:
+  Start: 0x761351b0e000, End: 0x761351b0f000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc586b0000:
+  Start: 0x761351b0f000, End: 0x761351b8e000
+  Flags: 0x8000070
+  Page Prot: 0x120
+  -----------------
+VMA ffff98fc54c81e60:
+  Start: 0x761351b8e000, End: 0x761351bf3000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  -----------------
+VMA ffff98fc54fce000:
+  Start: 0x761351bf3000, End: 0x761351bf7000
+  Flags: 0xc044411
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             special_mapping_close+0x0/0x10
+    may_split handler:         special_mapping_split+0x0/0x20
+    mremap handler:            special_mapping_mremap+0x0/0x70
+    mprotect handler:          0x0
+    fault handler:             special_mapping_fault+0x0/0xf0
+    huge_fault handler:        0x0
+    map_pages handler:         0x0
+    pagesize handler:          0x0
+    page_mkwrite handler:      0x0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  -----------------
+VMA ffff98fc54fce398:
+  Start: 0x761351bf7000, End: 0x761351bf9000
+  Flags: 0x8040075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             special_mapping_close+0x0/0x10
+    may_split handler:         special_mapping_split+0x0/0x20
+    mremap handler:            special_mapping_mremap+0x0/0x70
+    mprotect handler:          0x0
+    fault handler:             special_mapping_fault+0x0/0xf0
+    huge_fault handler:        0x0
+    map_pages handler:         0x0
+    pagesize handler:          0x0
+    page_mkwrite handler:      0x0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  -----------------
+VMA ffff98fc54fcecf0:
+  Start: 0x761351bf9000, End: 0x761351bfb000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc54fcea10:
+  Start: 0x761351bfb000, End: 0x761351c22000
+  Flags: 0x8000075
+  Page Prot: 0x25
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc54fce508:
+  Start: 0x761351c22000, End: 0x761351c2e000
+  Flags: 0x8000071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc54fce8a0:
+  Start: 0x761351c2e000, End: 0x761351c30000
+  Flags: 0x8100071
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc54ee2b80:
+  Start: 0x761351c30000, End: 0x761351c32000
+  Flags: 0x8100073
+  Page Prot: 0x8000000000000025
+  VM Operations:
+    open handler:              0x0
+    close handler:             0x0
+    may_split handler:         0x0
+    mremap handler:            0x0
+    mprotect handler:          0x0
+    fault handler:             filemap_fault+0x0/0xa00
+    huge_fault handler:        0x0
+    map_pages handler:         filemap_map_pages+0x0/0x570
+    pagesize handler:          0x0
+    page_mkwrite handler:      filemap_page_mkwrite+0x0/0x1d0
+    pfn_mkwrite handler:       0x0
+    access handler:            0x0
+    find_special_page handler: 0x0
+  Mapped file: /snap/snapd/23258/usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  -----------------
+VMA ffff98fc52d48730:
+  Start: 0x7fff730ee000, End: 0x7fff7310f000
+  Flags: 0x100173
+  Page Prot: 0x8000000000000025
+  -----------------
